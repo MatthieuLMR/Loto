@@ -1,0 +1,21 @@
+.button{
+    -fx-font-size: 25;
+    -fx-font-weight: bold;
+    -fx-background-radius: 5,5,5;
+}
+
+.buttonOk {
+    -fx-background-color:#00BFFF;
+    -fx-text-fill:#FF0000;
+}
+
+.buttonFullScreen {
+    -fx-font-size: 200;
+    -fx-font-weight: bold;
+    -fx-background-color:#00BFFF;
+    -fx-text-fill:#FF0000;
+}
+
+.buttonFullAPropos {
+    -fx-font-size: 12;
+}
